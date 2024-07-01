@@ -8,9 +8,7 @@ This project is a React application for managing a bank account, demonstrating t
 - **Redux Modern**: Implementation using modern Redux patterns including Redux Toolkit.
 - **Comparative Version**: Highlights the differences between classic and modern Redux implementations.
 - **Bank Account Management**: Users can withdraw, add, and load funds.
-- **React Router**: For smooth navigation within the application.
 - **State Management**: Efficient state management using Redux.
-- **User-friendly Interface**: Intuitive UI for managing bank account operations.
 
 ## Technologies Used
 
